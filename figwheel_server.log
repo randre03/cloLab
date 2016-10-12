@@ -1,0 +1,28 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 7.028 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.422 seconds.[0m
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.229 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.315 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.214 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.267 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.215 seconds.[0m
+notifying browser that file changed:  /lab_notebook/core.js
